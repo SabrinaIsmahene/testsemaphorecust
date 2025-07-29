@@ -89,5 +89,13 @@
     },
     "resolutions": {
         "changelogithub@0.12.7": "patch:changelogithub@npm:0.12.7#.yarn/patches/changelogithub-npm-0.12.7-72f348805d.patch"
+    },
+    "dependencies": {
+        "@noble/hashes": "^1.8.0",
+        "did-jwt-vc": "^4.0.15",
+        "did-resolver": "^4.1.0",
+        "dids": "^5.0.3",
+        "key-did-provider-ed25519": "^4.0.2",
+        "key-did-resolver": "^4.0.0"
     }
 }
